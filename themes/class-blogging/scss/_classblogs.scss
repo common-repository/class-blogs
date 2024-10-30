@@ -1,0 +1,111 @@
+
+@import "settings";
+
+/* ===SITEWIDE COMMENTS=== */
+
+// A sitewide comment in a widget
+.cb-sitewide-comment {
+
+	// Rendered user-defined format strings
+	.format {
+		color: $color-text-strong;
+	}
+
+	// The name of the comment author
+	.cb-sitewide-comment-author {
+		font-weight: bold;
+	}
+
+	// The comment excerpt
+	.cb-sitewide-comment-excerpt {
+		border-top: 1px solid $color-border-light;
+		margin: 0.1875em 0 1.5em;
+		padding-top: 0.1875em;
+	}
+}
+
+/* ===SITEWIDE POSTS=== */
+
+// A sitewide post in a widget
+.cb-sitewide-post {
+
+	// Rendered user-defined format strings
+	.format {
+		color: $color-text-strong;
+	}
+
+	// The title of the post
+	.cb-sitewide-post-title {
+		font-weight: bold;
+	}
+
+	// The post excerpt
+	.cb-sitewide-post-excerpt {
+		border-top: 1px solid $color-border-light;
+		margin: 0.1875em 0 1.5em;
+		padding-top: 0.1875em;
+	}
+}
+
+/* ==YOUTUBE CLASS PLAYLIST=== */
+
+// Wrapper for the playlist widget
+#sidebar .cb-youtube-class-playlist {
+
+	// Wrapper for the video thumbnail link
+	.cb-youtube-video-image-link {
+		margin-top: 1.5em;
+
+		// Scale the video thumbnail
+		.cb-youtube-video-thumbnail {
+			width: 90% !important;
+		}
+
+	}
+
+	// Links for viewing the playlist at the end of the video list
+	.cb-youtube-local-playlist-link,
+	.cb-youtube-remote-playlist-link
+	{
+		font-weight: bold;
+	}
+	.cb-youtube-local-playlist-link {
+		border-top: 1px solid $color-border-light;
+		margin-bottom: 0;
+		padding-top: 0.75em;
+	}
+	.cb-youtube-remote-playlist-link {
+		margin-top: 0;
+	}
+}
+
+// A single YouTube video on the class playlist page
+.hentry .content .cb-youtube-local-playlist-page-video {
+	margin-top: 1.5em;
+
+	// The video's title
+	.cb-youtube-local-playlist-page-title {
+		margin-bottom: 0;
+
+		a {
+			color: $color-text;
+		}
+	}
+
+	// Video metadata
+	.cb-youtube-local-playlist-page-meta {
+		margin-top: 0.75em;
+		margin-bottom: 0;
+
+		.cb-youtube-local-playlist-page-date {
+			font-weight: bold;
+		}
+	}
+
+	// Usage information about the video
+	.cb-youtube-local-playlist-page-usage {
+		border-top: 1px solid $color-border-light;
+		margin-top: 0.375em;
+		padding-top: 0.375em;
+	}
+}

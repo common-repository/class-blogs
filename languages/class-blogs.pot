@@ -1,0 +1,1005 @@
+# Copyright (C) 2010 Class Blogging
+# This file is distributed under the same license as the Class Blogging package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Class Blogging 0.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/class-blogs\n"
+"POT-Creation-Date: 2012-07-17 17:26:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: ClassBlogs/Admin.php:95 ClassBlogs/Admin.php:96 ClassBlogs/Admin.php:190
+#: ClassBlogs/ClassBlogs.php:428
+msgid "Class Blogs"
+msgstr ""
+
+#: ClassBlogs/Admin.php:184
+msgid ""
+"Enabled class-blogs plugins have been updated.  You must refresh the page to "
+"see the effects  of this."
+msgstr ""
+
+#: ClassBlogs/Admin.php:193
+msgid ""
+"The class blogs plugin\tsuite will help you manage a blog for a class where "
+"you have control over the main blog and each student has full ownership of a "
+"child blog."
+msgstr ""
+
+#: ClassBlogs/Admin.php:198
+msgid ""
+"The plugins that are part of this suite are provided in the list below.  Not "
+"every plugin has configurable options, but the ones that do will appear as "
+"links in the Class Blogs admin menu.  If you do not wish to use a certain "
+"component of the class-blogs suite, you can uncheck it in the list below and "
+"click on the \"Update Enabled Plugins\" button."
+msgstr ""
+
+#: ClassBlogs/Admin.php:203
+msgid "Enabled Plugins"
+msgstr ""
+
+#: ClassBlogs/Admin.php:211 ClassBlogs/Plugins/Aggregation/Aggregator.php:671
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:497
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:504
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:511
+#: ClassBlogs/Plugins/DisableComments.php:121
+msgid "Enabled"
+msgstr ""
+
+#: ClassBlogs/Admin.php:212
+msgid "Name"
+msgstr ""
+
+#: ClassBlogs/Admin.php:213
+msgid "Description"
+msgstr ""
+
+#: ClassBlogs/Admin.php:247
+msgid "Update Enabled Plugins"
+msgstr ""
+
+#: ClassBlogs/ClassBlogs.php:429
+msgid "The base class-blogs plugin that is used to manage plugin registration."
+msgstr ""
+
+#: ClassBlogs/Paginator.php:111
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ClassBlogs/Paginator.php:117
+msgid "Current page"
+msgstr ""
+
+#: ClassBlogs/PluginPage.php:147
+msgid "Plugin Page"
+msgstr ""
+
+#: ClassBlogs/PluginPage.php:148
+msgid "Manages pages associated with a plugin."
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/Aggregator.php:595
+#: ClassBlogs/Plugins/Aggregation/Aggregator.php:655
+msgid "Student Data Options"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/Aggregator.php:640
+msgid "The sitewide data has been refreshed."
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/Aggregator.php:648
+msgid "Your options have been updated."
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/Aggregator.php:658
+msgid ""
+"This page allows you to manage the options for collecting data on posts, "
+"comments and tags from your students' blogs."
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/Aggregator.php:663
+msgid "Data Sources"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/Aggregator.php:668
+msgid "Aggregation Enabled"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/Aggregator.php:673
+#: ClassBlogs/Plugins/DisableComments.php:123
+msgid "Disabled"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/Aggregator.php:678
+msgid "Excluded Blogs"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/Aggregator.php:702
+#: ClassBlogs/Plugins/Aggregation/Aggregator.php:711
+msgid "Refresh Student Data"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/Aggregator.php:710
+msgid "Update Sudent Data Options"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/Aggregator.php:733
+msgid "Sitewide Aggregator"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/Aggregator.php:734
+msgid "Handles post, comment and tag data from all blogs on the site."
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:57
+msgid "Recent Student Comments"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:65
+msgid "A list of recent comments from across all student blogs"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:93
+msgctxt "comment author, then post"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:140
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:134
+#: ClassBlogs/Plugins/Aggregation/SitewideTags.php:111
+#: ClassBlogs/Plugins/RandomImage.php:139
+#: ClassBlogs/Plugins/StudentBlogLinks.php:346
+#: ClassBlogs/Plugins/StudentBlogList.php:97
+#: ClassBlogs/Plugins/YouTubeClassPlaylist.php:114
+msgid "Title"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:144
+msgid "Comment Limit"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:148
+msgid "Comments-per-Blog Limit"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:152
+msgid "Show Comment Excerpt"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:156
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:150
+msgid "Meta Format"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:160
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:154
+#: ClassBlogs/Plugins/StudentBlogList.php:104
+msgid "Format variables you can use"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:163
+msgid "The name of the blog on which the comment was made"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:165
+msgid "The date on which the comment was made"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:167
+msgid "The time at which the comment was made"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:290
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:325
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:837
+msgid "Student Comments"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:328
+msgid ""
+"This page allows you to view all of the comments that have been left on "
+"yours students' blogs."
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:337
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:350
+#: themes/class-blogging/archive.php:24
+msgid "Author"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:338
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:351
+msgid "Comment"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:339
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:352
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:493
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:503
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:570
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:579
+msgid "Post"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:341
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:354
+msgid "Student Blog"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:343
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:356
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:495
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:505
+msgid "Status"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:344
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:357
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:496
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:506
+msgid "Date"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:406
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:541
+msgid "Approved"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:408
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:543
+msgid "Deleted"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:410
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:545
+msgid "Spam"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:412
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:547
+msgid "Unapproved"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:414
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:549
+msgid "Unknown"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:480
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:592
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:593
+msgid "My Comments"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:483
+msgid ""
+"This page allows you to view all of the comments that you have left on other "
+"students' blogs."
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:492
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:502
+msgid "Blog"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:494
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:504
+msgid "Content"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideComments.php:838
+msgid "Allows you to view data on all comments left by your students."
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:55
+msgid "Recent Student Posts"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:63
+msgid "A list of recent posts from across all student blogs"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:138
+msgid "Post Limit"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:142
+msgid "Posts-per-Blog Limit"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:146
+msgid "Show Post Excerpt"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:157
+msgid "The author's name"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:159
+msgid "The name of the blog on which the post was made"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:161
+msgid "The creation date of the post"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:163
+msgid "The creation time of the post"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:453
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:484
+msgid "Student Post Options"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:455
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:557
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:850
+msgid "Student Posts"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:478
+msgid "Your sitewide post options have been updated"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:487
+msgid ""
+"This page allows you to control options that will affect the display of "
+"student posts on the home page of the root blog."
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:494
+msgid "Show Student Posts On Root Blog"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:501
+msgid "Remove Post Formatting"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:508
+msgid "Only Show Post Excerpt"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:513
+msgid "Excerpt length (in words)"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:519
+msgid "Update Student Post Options"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:560
+msgid ""
+"This page allows you to view all of the posts that your students have "
+"published."
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:569
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:578
+msgid "Student"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:571
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:580
+msgid "Excerpt"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:572
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:581
+msgid "Posted"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewidePosts.php:851
+msgid "Allows you to view data on all posts made by your students."
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideTags.php:42
+msgid "Student Tag Cloud"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideTags.php:50
+msgid "A tag cloud made from tags on all blogs on the site"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideTags.php:80
+msgid "%d topic"
+msgid_plural "%d topics"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideTags.php:115
+msgid "Minimum Font Size"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideTags.php:119
+msgid "Maximum Font Size"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideTags.php:123
+msgid "Minimum Usage Count"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideTags.php:627
+msgid "Student Tags"
+msgstr ""
+
+#: ClassBlogs/Plugins/Aggregation/SitewideTags.php:628
+msgid ""
+"Provides a sitewide tag cloud widget, and allows uses of a single tag to be "
+"viewed across all student blogs."
+msgstr ""
+
+#: ClassBlogs/Plugins/ClassmateComments.php:51
+msgid "Classmate Comments"
+msgstr ""
+
+#: ClassBlogs/Plugins/ClassmateComments.php:52
+msgid ""
+"Automatically approves any comment left by a logged-in student on another "
+"student's blog."
+msgstr ""
+
+#: ClassBlogs/Plugins/DisableComments.php:86
+#: ClassBlogs/Plugins/DisableComments.php:108
+msgid "Disable Commenting"
+msgstr ""
+
+#: ClassBlogs/Plugins/DisableComments.php:102
+msgid "Your sitewide commenting options have been updated"
+msgstr ""
+
+#: ClassBlogs/Plugins/DisableComments.php:111
+msgid ""
+"This page allows you to disable commenting on every blog on this site, which "
+"includes both the root blog and the student blogs.  Any new posts will have "
+"commenting disabled by default, and all existing posts will not be able to "
+"receive comments."
+msgstr ""
+
+#: ClassBlogs/Plugins/DisableComments.php:118
+msgid "Commenting on All Blogs is"
+msgstr ""
+
+#: ClassBlogs/Plugins/DisableComments.php:129
+msgid "Update Commenting Status"
+msgstr ""
+
+#: ClassBlogs/Plugins/DisableComments.php:139
+msgid "Disable Comments"
+msgstr ""
+
+#: ClassBlogs/Plugins/DisableComments.php:140
+msgid ""
+"Provides you with the option of disabling commenting on all current and "
+"future posts published by you and your students."
+msgstr ""
+
+#: ClassBlogs/Plugins/GravatarSignup.php:99
+msgid ""
+"To keep track of your posts on the class blog, you should configure a "
+"Gravatar, which is an image of your choosing that will appear next to any "
+"posts or comments that you create.  You can sign up for a Gravatar for free "
+"by visiting the following URL:"
+msgstr ""
+
+#: ClassBlogs/Plugins/GravatarSignup.php:123
+msgid "Gravatar Signup"
+msgstr ""
+
+#: ClassBlogs/Plugins/GravatarSignup.php:124
+msgid ""
+"Adds a link allowing your students to sign up for a gravatar to their "
+"account activation emails."
+msgstr ""
+
+#: ClassBlogs/Plugins/NewUserConfiguration.php:196
+msgid "New User Configuration"
+msgstr ""
+
+#: ClassBlogs/Plugins/NewUserConfiguration.php:197
+msgid ""
+"Creates a first and last name for a newly added student based on their email "
+"address."
+msgstr ""
+
+#: ClassBlogs/Plugins/RandomImage.php:40
+#: ClassBlogs/Plugins/RandomImage.php:300
+msgid "Random Image"
+msgstr ""
+
+#: ClassBlogs/Plugins/RandomImage.php:48
+msgid "A random image from one of the blogs on the site"
+msgstr ""
+
+#: ClassBlogs/Plugins/RandomImage.php:76
+msgid "From the post %1$s on %2$s"
+msgstr ""
+
+#: ClassBlogs/Plugins/RandomImage.php:83
+msgid "From the post %1$s by %2$s"
+msgstr ""
+
+#: ClassBlogs/Plugins/RandomImage.php:94
+msgid "From the blog %s"
+msgstr ""
+
+#: ClassBlogs/Plugins/RandomImage.php:301
+msgid "Provides a widget that shows a random image."
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogLinks.php:108
+msgid "Return to Course Blog"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogLinks.php:237
+#: ClassBlogs/Plugins/StudentBlogLinks.php:304
+#: ClassBlogs/Plugins/StudentBlogLinks.php:371
+msgid "Student Blog Links"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogLinks.php:298
+msgid "Your links have been updated."
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogLinks.php:307
+msgid ""
+"This plugin lets you display links of your choosing in the first widgetized "
+"area of every student's blog. You can use this to have a link back to the "
+"main blog appear on every student's blog, for example."
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogLinks.php:313
+#: ClassBlogs/Plugins/WordCounter.php:288
+msgid "Options"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogLinks.php:317
+msgid "Widget Title"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogLinks.php:320
+msgid "The title for the the list of links."
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogLinks.php:325
+msgid "Links"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogLinks.php:329
+msgid "Add another link"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogLinks.php:344
+msgid "Link"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogLinks.php:348
+msgid "URL"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogLinks.php:350
+msgid "Delete"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogLinks.php:361
+msgid "Update Links"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogLinks.php:372
+msgid ""
+"Allows you to put links of your choosing in a sidebar on all student blogs."
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogList.php:36
+#: ClassBlogs/Plugins/StudentBlogList.php:281
+msgid "Student List"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogList.php:44
+msgid "A list of all students blogging for this class"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogList.php:101
+msgid "Display Format"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogList.php:108
+msgid "The name of the student's blog"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogList.php:111
+msgid "The student's first name"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogList.php:113
+msgid "The student's last name"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogList.php:115
+msgid "The student's nickname"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentBlogList.php:282
+msgid ""
+"Provides a widget that shows a list of all the student bloggers in your "
+"class."
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentPseudonym.php:66
+#: ClassBlogs/Plugins/StudentPseudonym.php:67
+#: ClassBlogs/Plugins/StudentPseudonym.php:131
+#: ClassBlogs/Plugins/StudentPseudonym.php:159
+msgid "Change Username"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentPseudonym.php:102
+msgid ""
+"You successfully changed your username.  Your new user information is as "
+"follows."
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentPseudonym.php:104
+msgid "Username"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentPseudonym.php:108
+msgid "Blog URL"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentPseudonym.php:118
+msgid "You cannot have a blank username."
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentPseudonym.php:120
+msgid ""
+"The username %s is invalid or conflicts with another user or blog.  Please "
+"choose a different username."
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentPseudonym.php:134
+msgid ""
+"If you have already changed your display name but still wish for there to be "
+"no trace of your actual identity on the blog, you can use this page to "
+"change the username that you use to log in to the blog."
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentPseudonym.php:141
+msgid "New Username"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentPseudonym.php:144
+msgid ""
+"Changing this will change the username that you use to access your blog and "
+"the URL at which it can be found."
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentPseudonym.php:147
+msgid "Your current username is %s"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentPseudonym.php:151
+msgid "Your current blog URL is %s"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentPseudonym.php:166
+msgid ""
+"You can only change your username once.  Are you sure that you wish to "
+"change it now?"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentPseudonym.php:269
+msgid "Student Pseudonym"
+msgstr ""
+
+#: ClassBlogs/Plugins/StudentPseudonym.php:270
+msgid "Adds a student admin page that allows them to change their username."
+msgstr ""
+
+#: ClassBlogs/Plugins/WordCounter.php:88
+msgid "Word Count"
+msgstr ""
+
+#: ClassBlogs/Plugins/WordCounter.php:114
+msgid "This Week"
+msgstr ""
+
+#: ClassBlogs/Plugins/WordCounter.php:119
+msgid "Previous Week"
+msgstr ""
+
+#: ClassBlogs/Plugins/WordCounter.php:127
+msgid "Words required per week"
+msgstr ""
+
+#: ClassBlogs/Plugins/WordCounter.php:172
+msgid "Word Counts"
+msgstr ""
+
+#: ClassBlogs/Plugins/WordCounter.php:189
+msgid "Your word-counter options been updated."
+msgstr ""
+
+#: ClassBlogs/Plugins/WordCounter.php:195
+msgid "Student Word Counts"
+msgstr ""
+
+#: ClassBlogs/Plugins/WordCounter.php:219
+msgid "Word Counts by Week"
+msgstr ""
+
+#: ClassBlogs/Plugins/WordCounter.php:222
+msgid ""
+"The table below shows the word counts for each student, drawn from any posts "
+"and comments that they have written, broken down by the week for which those "
+"counts are calculated.  The date displayed in the \"Week of\" column is for "
+"the Monday that started that week."
+msgstr ""
+
+#: ClassBlogs/Plugins/WordCounter.php:230
+msgid "Week of"
+msgstr ""
+
+#: ClassBlogs/Plugins/WordCounter.php:241
+msgid "Totals"
+msgstr ""
+
+#: ClassBlogs/Plugins/WordCounter.php:274
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ClassBlogs/Plugins/WordCounter.php:294
+msgid "Required Weekly Words"
+msgstr ""
+
+#: ClassBlogs/Plugins/WordCounter.php:297
+msgid "The number of words a student must write per week."
+msgstr ""
+
+#: ClassBlogs/Plugins/WordCounter.php:303
+msgid "Update Required Word Count"
+msgstr ""
+
+#: ClassBlogs/Plugins/WordCounter.php:488
+msgid "Word Counter"
+msgstr ""
+
+#: ClassBlogs/Plugins/WordCounter.php:489
+msgid ""
+"Adds an admin page for you to view student word counts by week, taken from "
+"their posts and comments."
+msgstr ""
+
+#: ClassBlogs/Plugins/YouTubeClassPlaylist.php:44
+#: ClassBlogs/Plugins/YouTubeClassPlaylist.php:1050
+msgid "YouTube Class Playlist"
+msgstr ""
+
+#: ClassBlogs/Plugins/YouTubeClassPlaylist.php:52
+msgid ""
+"A list of YouTube videos that have been recently added to the class playlist"
+msgstr ""
+
+#: ClassBlogs/Plugins/YouTubeClassPlaylist.php:87
+msgid "View all embedded videos"
+msgstr ""
+
+#: ClassBlogs/Plugins/YouTubeClassPlaylist.php:118
+msgid "Video Limit"
+msgstr ""
+
+#: ClassBlogs/Plugins/YouTubeClassPlaylist.php:524
+msgid "View on YouTube"
+msgstr ""
+
+#: ClassBlogs/Plugins/YouTubeClassPlaylist.php:535
+msgid "Added to the playlist on %s"
+msgstr ""
+
+#: ClassBlogs/Plugins/YouTubeClassPlaylist.php:541
+msgid "Embedded in"
+msgstr ""
+
+#: ClassBlogs/Plugins/YouTubeClassPlaylist.php:1051
+msgid "Maintains a playlist of all embedded YouTube videos on the class blog."
+msgstr ""
+
+#: themes/class-blogging/archive.php:15
+msgid "Day"
+msgstr ""
+
+#: themes/class-blogging/archive.php:18
+msgid "Month"
+msgstr ""
+
+#: themes/class-blogging/archive.php:21
+msgid "Year"
+msgstr ""
+
+#: themes/class-blogging/archive.php:27
+msgid "Archives"
+msgstr ""
+
+#: themes/class-blogging/category.php:8
+msgid "Category"
+msgstr ""
+
+#: themes/class-blogging/comments.php:8
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: themes/class-blogging/comments.php:16
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/class-blogging/comments.php:31
+msgctxt "comment reply link"
+msgid "Reply"
+msgstr ""
+
+#: themes/class-blogging/footer.php:10
+msgctxt "a WordPress theme"
+msgid "theme"
+msgstr ""
+
+#: themes/class-blogging/functions.php:36
+msgid "Primary Navigation"
+msgstr ""
+
+#: themes/class-blogging/functions.php:73
+msgid "Sidebar"
+msgstr ""
+
+#: themes/class-blogging/functions.php:111
+msgid "No Posts Found"
+msgstr ""
+
+#: themes/class-blogging/functions.php:113
+msgid ""
+"No posts were found.  You can try searching for posts using the form below."
+msgstr ""
+
+#: themes/class-blogging/functions.php:137 themes/class-blogging/header.php:25
+#: themes/class-blogging/loop-single.php:29
+msgid "Page %d"
+msgstr ""
+
+#: themes/class-blogging/functions.php:155
+msgid "Older posts"
+msgstr ""
+
+#: themes/class-blogging/functions.php:156
+msgid "Newer posts"
+msgstr ""
+
+#: themes/class-blogging/functions.php:183
+msgctxt "post creation date"
+msgid "Posted"
+msgstr ""
+
+#: themes/class-blogging/functions.php:185
+msgctxt "post author name"
+msgid "Author"
+msgstr ""
+
+#: themes/class-blogging/functions.php:219
+msgid "Categories"
+msgstr ""
+
+#: themes/class-blogging/functions.php:222
+msgctxt "plural noun"
+msgid "Tags"
+msgstr ""
+
+#: themes/class-blogging/functions.php:235
+msgid "Edit Post"
+msgstr ""
+
+#: themes/class-blogging/header.php:50
+msgid "Logo"
+msgstr ""
+
+#: themes/class-blogging/loop-single.php:37
+msgctxt "single post page list header"
+msgid "Pages"
+msgstr ""
+
+#: themes/class-blogging/loop-students.php:12
+msgid ""
+"You have no posts to display yet.  If you create a new post, it will be "
+"shown on this page."
+msgstr ""
+
+#: themes/class-blogging/loop-students.php:40
+#: themes/class-blogging/loop-students.php:62
+msgid "View all posts by this user"
+msgstr ""
+
+#: themes/class-blogging/loop-students.php:73
+msgid "%d post"
+msgid_plural "%d posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/class-blogging/loop-students.php:79
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/class-blogging/loop-students.php:109
+msgctxt "date format"
+msgid "M j"
+msgstr ""
+
+#: themes/class-blogging/loop-students.php:113
+msgid "Read more"
+msgstr ""
+
+#: themes/class-blogging/loop-students.php:125
+msgid "View all posts"
+msgstr ""
+
+#: themes/class-blogging/loop.php:28
+msgid "Unnamed Post"
+msgstr ""
+
+#: themes/class-blogging/loop.php:41
+msgid "Leave a comment"
+msgstr ""
+
+#: themes/class-blogging/loop.php:41
+msgid "1 Comment"
+msgstr ""
+
+#: themes/class-blogging/loop.php:41
+msgid "% Comments"
+msgstr ""
+
+#: themes/class-blogging/navigation.php:8
+msgid "Previous Entries"
+msgstr ""
+
+#: themes/class-blogging/navigation.php:17
+msgid "Next Entries"
+msgstr ""
+
+#: themes/class-blogging/search.php:9
+msgctxt "search results page title"
+msgid "Search Results"
+msgstr ""
+
+#: themes/class-blogging/tag.php:8
+msgctxt "noun"
+msgid "Tag"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Class Blogging"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://languages.oberlin.edu/cilc/projects/class-blogs/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A suite of plugins that make it easier to use WordPress for class blogging."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Oberlin College's Cooper International Learning Center"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://languages.oberlin.edu/"
+msgstr ""
